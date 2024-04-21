@@ -1,26 +1,29 @@
-# Credit Card Fraud Detection
+# Scikit-Learn Reservoir
 
-## About the Data
+Welcome to the Scikit-Learn Reservoir! 🌊
 
-This dataset comprises credit card transactions made by European cardholders in September 2013. It spans transactions over two days, totaling 284,807 transactions, with 492 identified as fraudulent. With frauds accounting for only 0.172% of all transactions, the dataset exhibits high class imbalance.
+This repository serves as a collection of projects and resources related to scikit-learn, a powerful machine learning library in Python.
 
-The dataset primarily consists of numerical input variables resulting from a Principal Component Analysis (PCA) transformation. Features V1 to V28 represent principal components obtained through PCA, while 'Time' and 'Amount' remain untransformed. 'Time' indicates the seconds elapsed between each transaction and the first one, while 'Amount' represents the transaction amount. The response variable, 'Class', is binary, taking the value 1 for fraud and 0 otherwise.
+## Projects
 
-Due to the class imbalance ratio, accuracy is measured using the Area Under the Precision-Recall Curve (AUPRC), as confusion matrix accuracy lacks significance in unbalanced classification scenarios.
+Here's a brief overview of the projects included in this reservoir:
 
-[Source](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+1. **Project Name**: Credit Card Fraud Detection using Logistic Regression
 
-## Libraries Used
+3. **Project Name**: March Madness 2024-basketball winners prediction using Logistic Regression
 
-- `import numpy as np`
-- `import pandas as pd`
-- `import plotly.express as px`
-- `import matplotlib.pyplot as plt`
-- `import seaborn as sns`
-- `import statsmodels.api as sm`
-- `from sklearn.metrics import confusion_matrix`
-- `from sklearn.preprocessing import binarize`
-- `from sklearn.metrics import roc_curve`
-- `import warnings`
+3. **Project Name**: Birds Audio Classification using XGBoost
 
-Make sure to have these libraries installed to run the code successfully.
+
+Feel free to explore each project to learn more about its goals, implementation, and usage.
+
+
+## Support
+
+If you have any questions, suggestions, or need assistance, feel free to open an issue or reach out to me via email.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE). Feel free to use the code and resources provided here for your projects.
+
+Happy coding and learning! 🚀
