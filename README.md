@@ -15,7 +15,7 @@ Here's a brief overview of the projects included in this reservoir:
   - [Link to Project](https://github.com/ishmaelrezaei/scikit-learn/tree/main/March%20Madness%202024-Basketball%20Winners%20Prediction)
 
 3. **Project Name**: Birds Audio Classification using XGBoost
-  - [[Link to Project](https://github.com/ishmaelrezaei/scikit-learn/tree/main/XGBoost%20for%20Audio%20Classification)](#)
+  - [Link to Project](https://github.com/ishmaelrezaei/scikit-learn/tree/main/XGBoost%20for%20Audio%20Classification)
 
 
 Feel free to explore each project to learn more about its goals, implementation, and usage.
